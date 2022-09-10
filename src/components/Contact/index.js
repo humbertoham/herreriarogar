@@ -5,7 +5,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faEnvelope, faMapMarkerAlt } from "@fortawesome/free-solid-svg-icons";
 const Contact = () => {
   return (
-    <Wrapper id="contact">
+    <Wrapper id="contacto">
       <Container>
         <Text>
           <h1>Contáctanos</h1>
